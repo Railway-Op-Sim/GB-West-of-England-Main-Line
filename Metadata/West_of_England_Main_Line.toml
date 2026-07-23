@@ -1,0 +1,14 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "West of England Main Line between Salisbury and Exeter, and the Heart of Wessex Line between Dorchester and Castle Cary"
+display_name = 'West of England Main Line'
+doc_files = [ 'West of England Main Line.md' ]
+factual = true
+img_files = [ 'West_of_England_Main_Line.bmp' ]
+name = 'West of England Main Line'
+release_date = '2022-07-04'
+year = 2022
+signal_position = "left"
+rly_file = 'West of England Main Line.rly'
+ttb_files = [ 'West of England Main Line 27-07-22.ttb' ]
+version = '1.0.0'
